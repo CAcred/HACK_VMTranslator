@@ -1,0 +1,2 @@
+g++ main.cpp VMTranslator/VMTranslator.cpp -o vmtranslator -std=c++11 -static-libgcc -static-libstdc++
+vmtranslator.exe C:\Users\Night_Blader\Desktop\nand2tetris\projects\07\MemoryAccess\StaticTest\StaticTest.vm
